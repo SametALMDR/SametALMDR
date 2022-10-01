@@ -60,7 +60,3 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sametalmdr&show_icons=true&locale=en" alt="sametalmdr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sametalmdr&" alt="sametalmdr" /></p>
-
