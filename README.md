@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
-<h3 align="center">A passionate IOS Developer from Turkey</h3>
+<h3 align="center">A passionate iOS Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sametalmdr&label=Profile%20views&color=0e75b6&style=flat" alt="sametalmdr" /> </p>
 
-- 🌱 I’m currently learning **Swift,SwiftUI**
+- 🌱 I’m currently learning **Swift, UIKit, SwiftUI**
 
-- 💬 Ask me about **swift,php,javascript,html,css**
+- 💬 Ask me about **Swift, PHP, Javascript, HTML, CSS**
 
 - 📫 How to reach me **samett.alemdaroglu@gmail.com**
 
